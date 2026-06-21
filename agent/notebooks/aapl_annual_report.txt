@@ -1,0 +1,48 @@
+
+APPLE INC. — ANNUAL REPORT EXCERPT 2024
+
+RISK FACTORS
+
+1. Global Economic Conditions
+Apple's business is subject to risks from global economic conditions including
+inflation, interest rate changes, and currency fluctuations. A downturn in 
+consumer spending could adversely affect iPhone and Mac sales.
+
+2. Supply Chain Concentration
+Apple relies heavily on suppliers in Asia, particularly Taiwan and China.
+Geopolitical tensions or natural disasters could disrupt production significantly.
+The company has been diversifying manufacturing to India and Vietnam.
+
+3. Competition
+Apple faces intense competition from Samsung, Google, and Chinese manufacturers
+in the smartphone market. The services segment faces competition from Spotify,
+Netflix, and other digital content providers.
+
+4. Regulatory Risk
+Apple faces ongoing antitrust investigations in the EU and US regarding the
+App Store policies and fees. The Digital Markets Act in Europe may require
+significant changes to Apple's business practices.
+
+FINANCIAL HIGHLIGHTS 2024
+
+Revenue:          $451.4 billion (up 2% YoY)
+Net Income:       $122.7 billion (up 4% YoY)
+Gross Margin:     46.2%
+Services Revenue: $96.2 billion (up 13% YoY)
+iPhone Revenue:   $201.2 billion (down 1% YoY)
+Cash Position:    $162.1 billion
+
+BUSINESS SEGMENTS
+
+iPhone accounted for 44.6% of total revenue.
+Services grew to 21.3% of revenue — highest ever.
+Mac revenue was $29.4 billion, up 7% YoY.
+iPad revenue was $26.7 billion, down 6% YoY.
+Wearables revenue was $37.0 billion, down 3% YoY.
+
+OUTLOOK
+
+Management expects continued growth in Services segment.
+AI features (Apple Intelligence) launching across product line.
+Vision Pro spatial computing platform in early adoption phase.
+Capital return program: $110 billion buyback authorized.
