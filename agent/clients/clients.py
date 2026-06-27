@@ -13,7 +13,7 @@ llm = ChatGroq(
 )
 
 embeddings = HuggingFaceEmbeddings(
-    model_name="sentence-transformers/all-MiniLM-L6-v2",
+    model_name="all-MiniLM-L6-v2",
     model_kwargs={"device": "cpu"},
     encode_kwargs={"normalize_embeddings": True},
 )
@@ -23,6 +23,5 @@ vector_store = AstraDBVectorStore(
     collection_name=os.getenv("ASTRA_DB_COLLECTION"),
     token=os.getenv("ASTRA_DB_APPLICATION_TOKEN"),
     api_endpoint=os.getenv("ASTRA_DB_API_ENDPOINT"),
-    dimension=384,
     metric="cosine",
 )
