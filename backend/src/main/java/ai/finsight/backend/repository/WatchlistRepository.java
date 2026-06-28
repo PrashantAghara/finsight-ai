@@ -6,9 +6,10 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 import java.util.Optional;
+import java.util.UUID;
 
 @Repository
-public interface WatchlistRepository extends JpaRepository<WatchList, Long> {
+public interface WatchlistRepository extends JpaRepository<WatchList, UUID> {
     List<WatchList> findByUserId(Long userId);
 
     Optional<WatchList> findByUserIdAndSymbol(Long userId, String symbol);
